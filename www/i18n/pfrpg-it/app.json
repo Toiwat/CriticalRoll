@@ -1,11 +1,11 @@
 {
-  "HELP-TITLE": "Help",
-  "LICENSE-TITLE": "License: Legal chatter",
-  "RULETIPS-TITLE": "Glossary",
-  "SETTINGS-TITLE": "Settings",
-  "SHARE-MESSAGE": "CriticalRoll: An App for Critical and Fumbles effects in Pathfinder, D&D 3.5 and D&D 5th",
+  "HELP-TITLE": "Aiuto",
+  "LICENSE-TITLE": "Licenza: note legali",
+  "RULETIPS-TITLE": "Glossario",
+  "SETTINGS-TITLE": "Impostazioni",
+  "SHARE-MESSAGE": "CriticalRoll: Un'App per effetti di Critici e Fallimenti in Pathfinder, D&D 3.5 e D&D 5e.",
   "SHARE-SUBJECT": "[PFRPG][D&D] CriticalRoll",
-  "HELP-NEEDED": "Help needed!",
-  "MAIL-BUG-SUBJECT": "[BUG] A bug in CriticalRoll",
-  "MAIL-BUG-BODY": "Hi! I've found a bug in CriticalRoll and it is:\n"
+  "HELP-NEEDED": "Serve aiuto!",
+  "MAIL-BUG-SUBJECT": "[BUG] Un bug in CriticalRoll",
+  "MAIL-BUG-BODY": "Ciao! Ho trovato un bug in CriticalRoll:\n"
 }
